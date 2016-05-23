@@ -1,0 +1,153 @@
+html, body{
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+	
+}
+div.block1{
+	
+	max-width:100%;
+	
+	background-color: rgb(50,150,100);
+	
+	padding:5px;
+	
+	margin: 0px 0px 0px 0px;
+	
+}
+h1.Title{
+	font-family: Helvetica;
+	font-size: 300%;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align:left;
+	outline-color: black;
+	color:rgb(255,255,255);
+	padding: 2px;
+	margin: 0px 0px 0px 0px;
+}
+a.title:link{
+	text-decoration: none;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	font-size: 300%;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align:left;
+	outline-color: black;
+	color:rgb(255,255,255);
+	padding: 2px;
+	margin: 0px 0px 0px 0px;
+
+}
+a.title:visited{
+	text-decoration: none;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	font-size: 300%;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align:left;
+	outline-color: black;
+	color:rgb(255,255,255);
+	padding: 2px;
+	margin: 0px 0px 0px 0px;
+
+}
+a.title.hover{
+	text-decoration: none;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	font-size: 300%;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align:left;
+	outline-color: black;
+	color:rgb(255,255,255);
+	padding: 2px;
+	margin: 0px 0px 0px 0px;
+}
+a.title.active{
+	text-decoration: none;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	font-size: 200%;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align:left;
+	outline-color: black;
+	color:rgb(255,255,255);
+	padding: 2px;
+	margin: 0px 0px 0px 0px;
+
+}
+p.title{
+	margin: 0px 0px 0px 0px;
+	float: right;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	font-size: 150%
+	
+}
+h2.title{
+
+	float: right;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	font-size: 150%;
+	color: white;
+	font-style: italic;
+}
+nav.menu{
+
+	padding: 20px;
+	background-color: rgb(50,50,50);
+	margin: 0px 0px 0px 0px;
+	max-width: 100%
+
+
+
+}
+ul.menu{
+	padding: 0px;
+	margin:0px 0px 0px 0px;
+
+}
+ul.menu li{
+	display: inline;
+}
+ul.menu li a{
+	background-color: rgb(50,50,50);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+
+    text-decoration: none;
+    border-radius: 4px 4px 4px 4px;
+    
+}
+ul.menu li a:hover{
+	background-color: orange;
+}
+button.newbutton{
+	background-color:rgb(50,150,100);
+	border-radius: 10px 10px 10px 10px;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	color:white;
+	height:30px;
+	width:100px;
+	font-size: 100%;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
+
+}
+button.hover{
+	background-color:rgb(50,150,100);
+	border-radius: 10px 10px 10px 10px;
+	font-family: 'Arial Rounded MT bold','Helvetica Rounded',Arial,sans-serif;
+	color:white;
+	height:50px;
+	width:120px;
+	font-size: 100%;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+
